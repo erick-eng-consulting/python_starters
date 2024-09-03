@@ -10,3 +10,4 @@ Content
 4. String formatting
 5. Boolean
 6. Conditionals
+7. Data Structures
