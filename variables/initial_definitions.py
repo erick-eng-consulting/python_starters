@@ -10,7 +10,6 @@ fruta = "naranja"
 
 print(fruta)
 
-
 #esto no se puede!
 #fruta = "naranja'
 
