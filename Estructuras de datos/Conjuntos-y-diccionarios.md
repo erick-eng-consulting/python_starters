@@ -15,12 +15,7 @@ conjunto_vacio = set()
 conjunto_vacio
 ```
 
-
-
-
     set()
-
-
 
 
 ```python

@@ -1,0 +1,24 @@
+{
+    "12345": {
+        "telefono": "45678",
+        "provincia": "san jose",
+        "canton": "tibas",
+        "enfermedad": ["gripe", "migrana"],
+        "medicamento": ["acetaminofen"]
+    },
+    "7894": {
+        "telefono": "45477",
+        "provincia": "limon",
+        "canton": "talamanca",
+        "enfermedad": ["gastritis"],
+        "medicamento": ["antiacido"]
+    },
+  "45678": {
+    "telefono": "45477",
+    "provincia": "heredia",
+    "canton": "barva",
+    "enfermedad": ["gastritis", "migrana"],
+    "medicamento": ["antiacido", "acetaminofen"]
+  }
+
+}
